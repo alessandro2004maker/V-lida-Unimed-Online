@@ -1,0 +1,10 @@
+# Node modules and environment files
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore database files (you can specify the pattern more if needed)
+database/*.db
